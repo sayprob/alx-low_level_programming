@@ -1,20 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
-
-#include <stdlib.h>
-
-/*
- * File: main.h
- *
- * Desc: This header file contains all the function prototypes used in
- * the 0x18. C - Dynamic libraries project of the ALX's 12 month software
- * engineering program.
- *
- * Author: Gizachew Bayness (Elec Crazy)
- *
- * Date Created: Jul 10, 2022
- *
- */
+#ifndef _MAIN_H_
+#define _MAIN_H_
 
 int _putchar(char c);
 int _islower(int c);

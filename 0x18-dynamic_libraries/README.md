@@ -1,1 +1,1 @@
-0x18. C - Dynamic libraries
+Alx no kill me biko
